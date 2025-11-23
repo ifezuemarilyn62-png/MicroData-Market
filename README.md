@@ -49,8 +49,7 @@ A short demo video (under 3 minutes) reveals:
 - The marketplace layout  
 
 👉 **Demo Video Link:**  
-[Watch the demo video](https://drive.google.com/file/d/1WAF_ymfbltmk2PUXCR-X3YMGhxP1prAd/view?usp=drivesdk)
-
+[Watch the demo video](https://drive.google.com/file/d/1OHXH9vOlhAti91iufQd4y_3Nc6IoEK9J/view?usp=drivesdk)
 ---
 
 ## 🧩 Hackathon Track  
@@ -60,8 +59,7 @@ A short demo video (under 3 minutes) reveals:
 
 ## 🌐 Website / Project Link 
 If required by the hackathon:  
-[Project Link](https://drive.google.com/file/d/1WAF_ymfbltmk2PUXCR-X3YMGhxP1prAd/view?usp=drivesdk)
-
+[Project Link](https://drive.google.com/file/d/1aVbzGelAEOu6jdiHCYsVDHzUOaJt_eYW/view?usp=drivesdk)
 ---
 
 ## 🗂️ Repository Contents
